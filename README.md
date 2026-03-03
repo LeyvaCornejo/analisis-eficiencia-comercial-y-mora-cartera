@@ -82,5 +82,9 @@ Como próximos pasos, el proyecto podría ampliarse incorporando modelos de aler
 
 ---
 
+![Power BI General](powerbi/imagenes/powerbi_general.png)
+
+![Power BI por Asesor](powerbi/imagenes/powerbi_por_asesor.png)
+
 ## Estado del proyecto
 ✅ **Proyecto finalizado**
