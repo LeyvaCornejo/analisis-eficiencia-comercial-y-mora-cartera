@@ -1,44 +1,78 @@
-# Análisis de la eficiencia comercial y la mora de la cartera
+Análisis de la eficiencia comercial y la mora de la cartera
+Contexto
 
-## Contexto
-En el sector bancario, la productividad comercial de los asesores suele medirse por el volumen de colocaciones. Sin embargo, una alta productividad no siempre garantiza una cartera saludable, ya que puede estar asociada a mayores niveles de mora.
+En el sector bancario, la productividad comercial de los asesores suele medirse principalmente por el volumen de colocaciones. Sin embargo, una alta productividad no siempre garantiza una cartera saludable, ya que puede estar asociada a mayores niveles de mora y mayor riesgo crediticio.
 
-Este proyecto analiza la relación entre la eficiencia comercial de los asesores y el comportamiento de pago de la cartera crediticia, con el objetivo de apoyar la toma de decisiones comerciales y de riesgo.
+Este proyecto analiza la relación entre la eficiencia comercial de los asesores y el comportamiento de pago de la cartera crediticia, con el objetivo de apoyar la toma de decisiones comerciales y de gestión del riesgo.
 
-## Objetivo del proyecto
-Evaluar si existe relación entre la productividad de los asesores comerciales y el nivel de mora de la cartera crediticia, identificando patrones que permitan mejorar la gestión comercial sin afectar la calidad del portafolio.
+Objetivo del proyecto
 
-## Preguntas de negocio
-- ¿Los asesores más productivos generan mayor nivel de mora?
-- ¿Qué asesores combinan alta productividad con baja mora?
-- ¿Existen diferencias relevantes por zona o período?
-- ¿Qué indicadores permiten monitorear eficiencia y riesgo de forma conjunta?
+Evaluar la relación entre la productividad de los asesores comerciales y el nivel de mora de la cartera crediticia, identificando patrones que permitan mejorar la gestión comercial sin afectar la calidad del portafolio.
 
-## Principales KPIs
-- Número de colocaciones por asesor
-- Monto total colocado
-- Ticket promedio de crédito
-- Cartera activa
-- Cartera en mora
-- Porcentaje de mora
-- Ratio productividad vs mora
+Preguntas de negocio
 
-## Fuentes de datos
-- Base de colocaciones de créditos
-- Base de pagos y estado de cartera
-- Información de asesores y zonas
+¿Los asesores más productivos generan mayor nivel de mora?
+
+¿Qué asesores combinan alta productividad con baja mora?
+
+¿Existen diferencias relevantes por zona geográfica o período?
+
+¿Qué indicadores permiten monitorear eficiencia comercial y riesgo de forma conjunta?
+
+Principales KPIs
+
+Número de colocaciones por asesor
+
+Monto total colocado
+
+Ticket promedio de crédito
+
+Cartera activa
+
+Cartera en mora
+
+Porcentaje de mora
+
+Relación productividad vs mora
+
+Fuentes de datos
+
+Base de colocaciones de créditos
+
+Base de pagos y estado de cartera
+
+Información de asesores y zonas
 
 (Datos simulados con lógica real del sector bancario, basados en experiencia laboral)
 
-## Herramientas utilizadas
-- Excel (limpieza y validación de datos)
-- Power BI (modelado, DAX y visualización)
-- SQL (consultas básicas para análisis)
+Herramientas utilizadas
 
-## Resultados esperados
-- Dashboard interactivo con KPIs comerciales y de riesgo
-- Identificación de asesores eficientes y sostenibles
-- Insights para mejorar metas, seguimiento e incentivos comerciales
+SQL: creación de tablas y consultas para análisis
 
-## Estado del proyecto
-En desarrollo. Próximamente se incorporarán los dashboards y conclusiones finales.
+Excel / Power Query: limpieza, transformación y validación de datos
+
+Power BI: modelado de datos, creación de medidas DAX y visualización
+
+Análisis y resultados
+
+El análisis de los datos evidencia que una mayor productividad comercial no siempre se traduce en una cartera con mejor comportamiento de pago. Se identificaron asesores con altos niveles de colocación que, a su vez, presentan porcentajes de mora superiores al promedio, lo que sugiere un posible desbalance entre el cumplimiento de objetivos comerciales y la evaluación del riesgo crediticio.
+
+Asimismo, el análisis por asesor permitió identificar perfiles eficientes, caracterizados por mantener un buen nivel de colocaciones con baja mora, así como casos donde un menor volumen colocado concentra un mayor nivel de riesgo. Este hallazgo refuerza la importancia de evaluar el desempeño comercial más allá del monto colocado.
+
+Desde la perspectiva de segmentación, el segmento corporativo concentra el mayor monto total colocado, mientras que los segmentos Pyme y Microempresa presentan mayor variabilidad en los indicadores de mora, lo que sugiere la necesidad de estrategias de seguimiento diferenciadas según el tipo de cartera.
+
+Finalmente, el análisis por cliente muestra que el capital en riesgo no se distribuye de manera homogénea, sino que se concentra en un grupo reducido de clientes con alta antigüedad de mora, permitiendo priorizar acciones de cobranza y gestión preventiva.
+
+Conclusiones
+
+La productividad comercial debe analizarse en conjunto con indicadores de riesgo crediticio.
+
+Existen asesores que logran un equilibrio sostenible entre colocación y calidad de cartera.
+
+El monitoreo segmentado por asesor, zona y tipo de cartera mejora la toma de decisiones comerciales.
+
+El uso de dashboards facilita la identificación temprana de focos de riesgo en la cartera.
+
+Estado del proyecto
+
+✅ Proyecto finalizado
