@@ -90,6 +90,7 @@ Permite evaluar rápidamente el nivel de colocación, la cartera activa y el por
 
 ### 🔹 Power BI – Análisis por asesor
 Esta vista permite analizar el desempeño individual de los asesores comerciales, comparando su productividad con el nivel de mora generado. Facilita la identificación de asesores con alta eficiencia y bajo riesgo, así como casos que requieren seguimiento.
+
 ![Power BI Por asesor](PowerBI_Asesor.png)
 
 ## Estado del proyecto
