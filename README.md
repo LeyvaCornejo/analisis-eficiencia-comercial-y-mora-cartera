@@ -92,5 +92,6 @@ En esta vista se presenta un resumen del estado de la cartera crediticia, incluy
 Esta vista permite analizar el desempeño individual de los asesores comerciales, comparando su productividad con el nivel de mora generado. Facilita la identificación de asesores con alta eficiencia y bajo riesgo, así como casos que requieren seguimiento.
 
 ![Power BI por Asesor](powerbi/imagenes/PowerBI_Asesor.png)
+
 ## Estado del proyecto
 ✅ **Proyecto finalizado**
