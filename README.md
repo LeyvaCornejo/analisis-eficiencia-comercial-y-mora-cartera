@@ -81,17 +81,12 @@ El análisis se desarrolló a partir de datos simulados con lógica real del sec
 Como próximos pasos, el proyecto podría ampliarse incorporando modelos de alertas tempranas de mora, segmentación avanzada de clientes por perfil de riesgo o análisis predictivo para anticipar el deterioro de la cartera.
 
 ---
-### 🔹 Power BI – Vista general
-En esta vista se presenta un resumen del estado de la cartera crediticia, incluyendo los principales KPIs comerciales y de riesgo. Permite evaluar rápidamente el nivel de colocación, la cartera activa y el porcentaje de mora, ofreciendo una visión global del desempeño comercial.
+## 🔹 Power BI – Vista general
 
-![Power BI General](powerbi/imagenes/PowerBI_General.png)
+En esta vista se presenta un resumen del estado de la cartera crediticia, incluyendo los principales KPIs comerciales y de riesgo.  
+Permite evaluar rápidamente el nivel de colocación, la cartera activa y el porcentaje de mora, ofreciendo una visión global del desempeño comercial.
 
----
-
-### 🔹 Power BI – Análisis por asesor
-Esta vista permite analizar el desempeño individual de los asesores comerciales, comparando su productividad con el nivel de mora generado. Facilita la identificación de asesores con alta eficiencia y bajo riesgo, así como casos que requieren seguimiento.
-
-![Power BI por Asesor](powerbi/imagenes/PowerBI_Asesor.png)
+![Power BI Vista General](PowerBI_General.png)
 
 ## Estado del proyecto
 ✅ **Proyecto finalizado**
